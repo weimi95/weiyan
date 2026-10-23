@@ -76,7 +76,7 @@
   },
   {
     "id": "boutiquebitmap7x7-1-5",
-    "name": "精品点阵体7×7",
+    "name": "精品点阵体7×7 1.5",
     "style": "decorative",
     "scene": [
       "poster",
@@ -91,7 +91,7 @@
   },
   {
     "id": "boutiquebitmap7x7-1-6",
-    "name": "精品点阵体7×7",
+    "name": "精品点阵体7×7 1.6",
     "style": "decorative",
     "scene": [
       "poster",
@@ -106,7 +106,7 @@
   },
   {
     "id": "boutiquebitmap9x9-bold-1-5",
-    "name": "精品点阵体9×9 Bold",
+    "name": "精品点阵体9×9 Bold 1.5",
     "style": "decorative",
     "scene": [
       "poster",
@@ -121,7 +121,7 @@
   },
   {
     "id": "boutiquebitmap9x9-bold-1-6",
-    "name": "精品点阵体9×9 Bold",
+    "name": "精品点阵体9×9 Bold 1.6",
     "style": "decorative",
     "scene": [
       "poster",
@@ -196,7 +196,7 @@
   },
   {
     "id": "misekibitmapmincho",
-    "name": "美绩点阵体",
+    "name": "美绩点阵明朝体",
     "style": "serif",
     "scene": [
       "body",
@@ -226,7 +226,7 @@
   },
   {
     "id": "wenquanyi-bitmap-song-12px",
-    "name": "文泉驿点阵宋体",
+    "name": "文泉驿点阵宋体 12px",
     "style": "serif",
     "scene": [
       "body",
@@ -241,7 +241,7 @@
   },
   {
     "id": "wenquanyi-bitmap-song-13px",
-    "name": "文泉驿点阵宋体",
+    "name": "文泉驿点阵宋体 13px",
     "style": "serif",
     "scene": [
       "body",
@@ -256,7 +256,7 @@
   },
   {
     "id": "wenquanyi-bitmap-song-14px",
-    "name": "文泉驿点阵宋体",
+    "name": "文泉驿点阵宋体 14px",
     "style": "serif",
     "scene": [
       "body",
@@ -271,7 +271,7 @@
   },
   {
     "id": "wenquanyi-bitmap-song-15px",
-    "name": "文泉驿点阵宋体",
+    "name": "文泉驿点阵宋体 15px",
     "style": "serif",
     "scene": [
       "body",
@@ -286,7 +286,7 @@
   },
   {
     "id": "wenquanyi-bitmap-song-16px",
-    "name": "文泉驿点阵宋体",
+    "name": "文泉驿点阵宋体 16px",
     "style": "serif",
     "scene": [
       "body",
@@ -346,7 +346,7 @@
   },
   {
     "id": "chillcalligraphychunqiu-chenfeng",
-    "name": "寒蝉书体·春秋",
+    "name": "寒蝉书体·春秋 春风",
     "style": "handwritten",
     "scene": [
       "title",
@@ -361,7 +361,7 @@
   },
   {
     "id": "chillcalligraphychunqiu-qiuhong",
-    "name": "寒蝉书体·春秋",
+    "name": "寒蝉书体·春秋 秋鸿",
     "style": "handwritten",
     "scene": [
       "title",
@@ -391,7 +391,7 @@
   },
   {
     "id": "chillduanheisongregular",
-    "name": "寒蝉端黑宋v1.2 Regular",
+    "name": "寒蝉端黑宋v1.2",
     "style": "sans",
     "scene": [
       "title",
@@ -406,7 +406,7 @@
   },
   {
     "id": "chillduanheisong-condensedregular",
-    "name": "寒蝉端黑宋v1.2 Regular",
+    "name": "寒蝉端黑宋v1.2 Condensed",
     "style": "sans",
     "scene": [
       "title",
@@ -421,7 +421,7 @@
   },
   {
     "id": "chillduanheisongpro-regular",
-    "name": "寒蝉端黑宋v1.2 Regular",
+    "name": "寒蝉端黑宋Pro v1.2",
     "style": "sans",
     "scene": [
       "title",
@@ -436,7 +436,7 @@
   },
   {
     "id": "chillduanheisongprojp-regular",
-    "name": "寒蝉端黑宋v1.2 Regular",
+    "name": "寒蝉端黑宋ProJP v1.2",
     "style": "sans",
     "scene": [
       "title",
@@ -466,7 +466,7 @@
   },
   {
     "id": "chilljinshuminchojpregular",
-    "name": "寒蝉锦书宋 Regular",
+    "name": "寒蝉锦书明朝JP",
     "style": "serif",
     "scene": [
       "body",
@@ -481,7 +481,7 @@
   },
   {
     "id": "chilljinshusongregular",
-    "name": "寒蝉锦书宋 Regular",
+    "name": "寒蝉锦书宋 v1.7",
     "style": "serif",
     "scene": [
       "body",
@@ -496,7 +496,7 @@
   },
   {
     "id": "chilljinshusonggbkregular",
-    "name": "寒蝉锦书宋 Regular",
+    "name": "寒蝉锦书宋GBK",
     "style": "serif",
     "scene": [
       "body",
@@ -526,7 +526,7 @@
   },
   {
     "id": "chilljinshusongtcregular",
-    "name": "寒蝉锦书宋 Regular",
+    "name": "寒蝉锦书宋TC",
     "style": "serif",
     "scene": [
       "body",
@@ -571,7 +571,7 @@
   },
   {
     "id": "chillroundf-v3-0",
-    "name": "寒蝉全圆体",
+    "name": "寒蝉全圆体F v3.0",
     "style": "sans",
     "scene": [
       "title",
@@ -586,7 +586,7 @@
   },
   {
     "id": "chillroundf-v1-500",
-    "name": "寒蝉全圆体",
+    "name": "寒蝉全圆体F v1.5",
     "style": "sans",
     "scene": [
       "title",
@@ -601,7 +601,7 @@
   },
   {
     "id": "chillroundm",
-    "name": "寒蝉全圆体",
+    "name": "寒蝉半圆体",
     "style": "sans",
     "scene": [
       "title",
@@ -631,7 +631,7 @@
   },
   {
     "id": "jasonhandwriting1-regular",
-    "name": "Max修改版 Regular",
+    "name": "清松手写体1（Max修改版）",
     "style": "handwritten",
     "scene": [
       "title",
@@ -639,14 +639,14 @@
     ],
     "license": "OFL",
     "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "清松字库出品的SIL OFL 1.1字体，适用于标题/海报等场景。",
+    "desc": "清松字库出品的SIL OFL 1.1字体（Max修改版，新增字形），适用于标题/海报等场景。",
     "preview": "previews/jasonhandwriting1-regular.png",
     "src": "fonts/jasonhandwriting1-regular.ttf",
     "quark": "https://pan.quark.cn/s/09c11a0a0ba7"
   },
   {
     "id": "jasonhandwriting2-regular",
-    "name": "Max修改版 Regular",
+    "name": "清松手写体2（Max修改版）",
     "style": "handwritten",
     "scene": [
       "title",
@@ -654,14 +654,14 @@
     ],
     "license": "OFL",
     "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "清松字库出品的SIL OFL 1.1字体，适用于标题/海报等场景。",
+    "desc": "清松字库出品的SIL OFL 1.1字体（Max修改版，新增字形），适用于标题/海报等场景。",
     "preview": "previews/jasonhandwriting2-regular.png",
     "src": "fonts/jasonhandwriting2-regular.ttf",
     "quark": "https://pan.quark.cn/s/b7c02b68377d"
   },
   {
     "id": "jasonhandwriting3-regular",
-    "name": "Max修改版 Regular",
+    "name": "清松手写体3（Max修改版）",
     "style": "handwritten",
     "scene": [
       "title",
@@ -669,14 +669,14 @@
     ],
     "license": "OFL",
     "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "清松字库出品的SIL OFL 1.1字体，适用于标题/海报等场景。",
+    "desc": "清松字库出品的SIL OFL 1.1字体（Max修改版，新增字形），适用于标题/海报等场景。",
     "preview": "previews/jasonhandwriting3-regular.png",
     "src": "fonts/jasonhandwriting3-regular.ttf",
     "quark": "https://pan.quark.cn/s/fc1ace2421c1"
   },
   {
     "id": "jasonhandwriting3p",
-    "name": "清松手写体3",
+    "name": "清松手写体3P",
     "style": "handwritten",
     "scene": [
       "title",
@@ -691,7 +691,7 @@
   },
   {
     "id": "jasonhandwriting4-regular",
-    "name": "Max修改版 Regular",
+    "name": "清松手写体4（Max修改版）",
     "style": "handwritten",
     "scene": [
       "title",
@@ -699,14 +699,14 @@
     ],
     "license": "OFL",
     "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "清松字库出品的SIL OFL 1.1字体，适用于标题/海报等场景。",
+    "desc": "清松字库出品的SIL OFL 1.1字体（Max修改版，新增字形），适用于标题/海报等场景。",
     "preview": "previews/jasonhandwriting4-regular.png",
     "src": "fonts/jasonhandwriting4-regular.ttf",
     "quark": "https://pan.quark.cn/s/71b63d08a4ff"
   },
   {
     "id": "jasonhandwriting5",
-    "name": "Max修改版",
+    "name": "清松手写体5（Max修改版）",
     "style": "handwritten",
     "scene": [
       "title",
@@ -714,14 +714,14 @@
     ],
     "license": "OFL",
     "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "清松字库出品的SIL OFL 1.1字体，适用于标题/海报等场景。",
+    "desc": "清松字库出品的SIL OFL 1.1字体（Max修改版，新增字形），适用于标题/海报等场景。",
     "preview": "previews/jasonhandwriting5.png",
     "src": "fonts/jasonhandwriting5.ttf",
     "quark": "https://pan.quark.cn/s/9434daa58f18"
   },
   {
     "id": "jasonhandwriting5p",
-    "name": "Max修改版",
+    "name": "清松手写体5P（Max修改版）",
     "style": "handwritten",
     "scene": [
       "title",
@@ -729,7 +729,7 @@
     ],
     "license": "OFL",
     "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "清松字库出品的SIL OFL 1.1字体，适用于标题/海报等场景。",
+    "desc": "清松字库出品的SIL OFL 1.1字体（Max修改版，新增字形），适用于标题/海报等场景。",
     "preview": "previews/jasonhandwriting5p.png",
     "src": "fonts/jasonhandwriting5p.ttf",
     "quark": "https://pan.quark.cn/s/ebccaa0baede"
@@ -751,7 +751,7 @@
   },
   {
     "id": "jasonhandwriting6p",
-    "name": "清松手写体6",
+    "name": "清松手写体6P",
     "style": "handwritten",
     "scene": [
       "title",
@@ -781,7 +781,7 @@
   },
   {
     "id": "jasonhandwriting7p",
-    "name": "清松手写体7",
+    "name": "清松手写体7P",
     "style": "handwritten",
     "scene": [
       "title",
