@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>微言字体 - 开源与免费商用字体收集</title>
+<meta name="description" content="微言字体：收集开源与免费商用字体，统一预览，夸克网盘下载。">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <h1>微言字体</h1>
+  <p class="tagline">人微言轻 · 微言大义 —— 收集开源与免费商用字体</p>
+</header>
+
+<main class="container">
+  <div class="toolbar">
+    <input id="search" type="search" placeholder="搜索字体名 / 简介 / 协议…" autocomplete="off">
+  </div>
+
+  <div class="filters">
+    <div class="filter-group" id="styleFilters" data-key="style">
+      <span class="filter-label">风格</span>
+      <button class="chip active" data-value="">全部</button>
+    </div>
+    <div class="filter-group" id="sceneFilters" data-key="scene">
+      <span class="filter-label">用途</span>
+      <button class="chip active" data-value="">全部</button>
+    </div>
+  </div>
+
+  <div class="meta"><span id="count">0</span> 款字体</div>
+
+  <div id="grid" class="grid"></div>
+  <div id="empty" class="empty" hidden>没有符合条件的字体</div>
+</main>
+
+<footer class="site-footer">
+  <p>微言字体 · 字体授权归原作者所有，使用前请核对协议 · 下载链接由夸克网盘提供</p>
+</footer>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>
