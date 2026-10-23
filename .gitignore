@@ -1,0 +1,17 @@
+# 本地字体源文件：体积大、部分协议限制再分发，一律不进 git，只走夸克网盘
+fonts/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统 / 编辑器杂项
+Thumbs.db
+.DS_Store
+*.log
+
+# WorkBuddy 项目数据（非代码，不进版本库）
+.workbuddy/
+
+# 一次性部署辅助脚本（含本地凭据读取逻辑，不进版本库）
+tools/_setup_gh.py
