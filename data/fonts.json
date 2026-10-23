@@ -22,5 +22,17 @@
     "src": "C:/Windows/Fonts/Source Han Serif SC Heavy (TrueType).ttf",
     "preview": "previews/source-han-serif-sc.png",
     "quark": "https://pan.quark.cn/s/待补充"
+  },
+  {
+    "id": "lxgw-wenkai-gb",
+    "name": "霞鹜文楷 GB（简体）",
+    "style": "serif",
+    "scene": ["title", "body", "poster"],
+    "license": "OFL",
+    "licenseNote": "SIL Open Font License 1.1（霞鹜系，可免费商用并再分发）",
+    "desc": "基于 Klee One 改造的开源楷体，简体中文笔形自然，适合正文、标题与诗文。OFL 授权可自由再分发。",
+    "src": "fonts/lxgw-wenkai-gb.ttf",
+    "preview": "previews/lxgw-wenkai-gb.png",
+    "quark": "https://pan.quark.cn/s/0778a377a1b4"
   }
 ]
