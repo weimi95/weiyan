@@ -1,0 +1,26 @@
+[
+  {
+    "id": "noto-sans-sc",
+    "name": "Noto Sans SC（思源黑体）",
+    "style": "sans",
+    "scene": ["title", "body", "ui"],
+    "license": "OFL",
+    "licenseNote": "SIL Open Font License 1.1，可免费商用",
+    "desc": "Google 与 Adobe 联合推出的开源黑体，覆盖简/繁中文与多语种，多字重。预览由本机已安装字体生成，下载链接待补充。",
+    "src": "C:/Windows/Fonts/Noto Sans SC (TrueType).otf",
+    "preview": "previews/noto-sans-sc.png",
+    "quark": "https://pan.quark.cn/s/待补充"
+  },
+  {
+    "id": "source-han-serif-sc",
+    "name": "Source Han Serif SC（思源宋体）",
+    "style": "serif",
+    "scene": ["title", "body", "poster"],
+    "license": "OFL",
+    "licenseNote": "SIL Open Font License 1.1，可免费商用",
+    "desc": "Adobe 与 Google 联合推出的开源宋体，笔形典雅，适合正文与标题。预览由本机已安装字体生成，下载链接待补充。",
+    "src": "C:/Windows/Fonts/Source Han Serif SC Heavy (TrueType).ttf",
+    "preview": "previews/source-han-serif-sc.png",
+    "quark": "https://pan.quark.cn/s/待补充"
+  }
+]
