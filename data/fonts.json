@@ -645,21 +645,6 @@
     "quark": "https://pan.quark.cn/s/5b53d3b7aa48"
   },
   {
-    "id": "jasonhandwriting-regular",
-    "name": "Max修改版 Regular",
-    "style": "handwritten",
-    "scene": [
-      "title",
-      "poster"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "清松字库出品的SIL OFL 1.1字体，适用于标题/海报等场景。",
-    "preview": "previews/jasonhandwriting-regular.png",
-    "src": "fonts/jasonhandwriting-regular.ttf",
-    "quark": "https://pan.quark.cn/s/133d59b28836"
-  },
-  {
     "id": "jasonhandwriting1-regular",
     "name": "Max修改版 Regular",
     "style": "handwritten",
