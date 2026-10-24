@@ -1762,5 +1762,20 @@
     "desc": "鸿雷行书简体：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。适用于标题/海报等场景。",
     "preview": "previews/d-292f4.png",
     "officialUrl": "http://mp.weixin.qq.com/s?__biz=MzYzNzQyODM0Nw==&mid=2247483652&idx=1&sn=ba8b589d31154dd3ce148254299b9204&chksm=f1399e0bbc324bc89fe87799070cd8a88e160b2a9aa5039fa32a98b355e6ed8e0dd8ecc4c90b#rd"
+  },
+  {
+    "id": "wenjin-mincho-p0",
+    "name": "文津宋体",
+    "style": "serif",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "OFL",
+    "licenseNote": "SIL OFL 1.1，可自由再分发",
+    "desc": "文津宋体：基于思源宋体的大字符集开源宋体（第0平面版，含常用2万+汉字），SIL OFL 1.1 发布，可自由商用与再分发。完整12.7万汉字全平面版请前往官方仓库 takushun-wu/WenJinMincho 下载。",
+    "preview": "previews/wenjin-mincho-p0.png",
+    "src": "fonts/wenjin-mincho-p0.ttf",
+    "quark": "https://pan.quark.cn/s/d2a53378931a"
   }
 ]
