@@ -1777,5 +1777,217 @@
     "preview": "previews/wenjin-mincho-p0.png",
     "src": "fonts/wenjin-mincho-p0.ttf",
     "quark": "https://pan.quark.cn/s/d2a53378931a"
+  },
+  {
+    "id": "alipuhuiti",
+    "name": "阿里巴巴普惠体",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "阿里巴巴普惠体：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://www.alibabafonts.com/#/home"
+  },
+  {
+    "id": "alimama-shuheiti",
+    "name": "阿里妈妈数黑体",
+    "style": "sans",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "阿里妈妈数黑体：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://www.iconfont.cn/fonts/detail?cnid=a9fXc2HD9n7s"
+  },
+  {
+    "id": "alimama-fangyuanti",
+    "name": "阿里妈妈方圆体",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "阿里妈妈方圆体：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://www.iconfont.cn/fonts/detail?cnid=pOvFIr086ADR"
+  },
+  {
+    "id": "uisdc-haoshenti",
+    "name": "优设好身体",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "优设好身体：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://www.uisdc.com/uisdc-second-free-font"
+  },
+  {
+    "id": "muyao-softbrush",
+    "name": "沐瑶软笔手写体",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "沐瑶软笔手写体：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html"
+  },
+  {
+    "id": "harmonyos-sans",
+    "name": "HarmonyOS Sans",
+    "style": "sans",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "HarmonyOS Sans：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://developer.huawei.com/consumer/cn/design/resource/"
+  },
+  {
+    "id": "oppo-sans",
+    "name": "OPPO Sans",
+    "style": "sans",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "OPPO Sans：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://open.oppomobile.com/new/developmentDoc/info?id=13223"
+  },
+  {
+    "id": "vivo-sans",
+    "name": "vivo Sans",
+    "style": "sans",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "vivo Sans：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://developers.vivo.com/doc/d/314fa33cbaec4a93be351cd44757d9d9"
+  },
+  {
+    "id": "dingtalk-jinbuti",
+    "name": "钉钉进步体",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "钉钉进步体：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://page.dingtalk.com/wow/dingtalk/default/dingtalk/y-W5aF3_ZJwzulU0nceIl"
+  },
+  {
+    "id": "zcool-gaoduanhei",
+    "name": "站酷高端黑",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "站酷高端黑：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://www.zcool.com.cn/special/gaoduanhei/"
+  },
+  {
+    "id": "zcool-kuaile",
+    "name": "站酷快乐体",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "作者声明",
+    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
+    "desc": "站酷快乐体：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。",
+    "preview": "",
+    "officialUrl": "https://www.zcool.com.cn/special/happyfont/"
+  },
+  {
+    "id": "huiwen-mincho",
+    "name": "汇文明朝体",
+    "style": "serif",
+    "scene": [
+      "poster",
+      "title"
+    ],
+    "license": "Public Domain",
+    "licenseNote": "作者声明可自由使用与再分发",
+    "desc": "汇文明朝体：复古铅字印刷风格宋体，覆盖GB2312及繁简日常字，可自由商用与再分发。",
+    "preview": "previews/huiwen-mincho.png",
+    "src": "fonts/huiwen-mincho.ttf",
+    "quark": "https://pan.quark.cn/s/8254cb1e8b31"
+  },
+  {
+    "id": "lxgw-neoxihei",
+    "name": "霞鹜新晰黑",
+    "style": "sans",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "IPA Font License 1.0",
+    "licenseNote": "IPA Font License 1.0，可自由商用与再分发（不得保留IPA原名）",
+    "desc": "霞鹜新晰黑：基于IPAex黑体的开源中文黑体，字形符合大陆规范，支持简体/繁体/特殊符号。",
+    "preview": "previews/lxgw-neoxihei.png",
+    "src": "fonts/lxgw-neoxihei.ttf",
+    "quark": "https://pan.quark.cn/s/2e225f89f65a"
+  },
+  {
+    "id": "yanshi-foxiti",
+    "name": "演示佛系体",
+    "style": "handwritten",
+    "scene": [
+      "poster",
+      "title"
+    ],
+    "license": "SIL OFL 1.1",
+    "licenseNote": "SIL OFL 1.1，免费商用（需从官方渠道下载）",
+    "desc": "演示佛系体：80岁纪国才老先生手写的禅意免费字体，Keynote研究所×秋叶PPT联合发布。",
+    "quark": null,
+    "officialUrl": "https://www.zcool.com.cn/work/ZNDM2MzEzMDg=.html"
+  },
+  {
+    "id": "yanshi-youran",
+    "name": "演示悠然小楷",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "SIL OFL 1.1",
+    "licenseNote": "SIL OFL 1.1，免费商用（需从官方渠道下载）",
+    "desc": "演示悠然小楷：99年书法系女生孟祥媛手写的清秀楷体，Keynote研究所×秋叶PPT发布。",
+    "quark": null,
+    "officialUrl": "https://www.zcool.com.cn/work/ZNDM4OTQ2MTI=.html"
   }
 ]
