@@ -60,23 +60,8 @@
     "quark": "https://pan.quark.cn/s/b74c7033a02b"
   },
   {
-    "id": "boutiquebitmap7x7",
-    "name": "精品点阵体7×7",
-    "style": "decorative",
-    "scene": [
-      "poster",
-      "code"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "像素字体出品的SIL OFL 1.1字体，适用于海报/代码等场景。",
-    "preview": "previews/boutiquebitmap7x7.png",
-    "src": "fonts/boutiquebitmap7x7.ttf",
-    "quark": "https://pan.quark.cn/s/ec3bf794b41f"
-  },
-  {
     "id": "boutiquebitmap7x7-1-5",
-    "name": "精品点阵体7×7 1.5",
+    "name": "精品点阵体7×7（共3款）",
     "style": "decorative",
     "scene": [
       "poster",
@@ -87,26 +72,11 @@
     "desc": "像素字体出品的SIL OFL 1.1字体，适用于海报/代码等场景。",
     "preview": "previews/boutiquebitmap7x7-1-5.png",
     "src": "fonts/boutiquebitmap7x7-1-5.ttf",
-    "quark": "https://pan.quark.cn/s/dc5e0cff6b0c"
-  },
-  {
-    "id": "boutiquebitmap7x7-1-6",
-    "name": "精品点阵体7×7 1.6",
-    "style": "decorative",
-    "scene": [
-      "poster",
-      "code"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "像素字体出品的SIL OFL 1.1字体，适用于海报/代码等场景。",
-    "preview": "previews/boutiquebitmap7x7-1-6.png",
-    "src": "fonts/boutiquebitmap7x7-1-6.ttf",
-    "quark": "https://pan.quark.cn/s/db9251725df1"
+    "quark": "https://pan.quark.cn/s/1ec63aa7acb8"
   },
   {
     "id": "boutiquebitmap9x9-bold-1-5",
-    "name": "精品点阵体9×9 Bold 1.5",
+    "name": "精品点阵体9×9 Bold（共2款）",
     "style": "decorative",
     "scene": [
       "poster",
@@ -117,22 +87,7 @@
     "desc": "像素字体出品的SIL OFL 1.1字体，适用于海报/代码等场景。",
     "preview": "previews/boutiquebitmap9x9-bold-1-5.png",
     "src": "fonts/boutiquebitmap9x9-bold-1-5.ttf",
-    "quark": "https://pan.quark.cn/s/b36993ca0b62"
-  },
-  {
-    "id": "boutiquebitmap9x9-bold-1-6",
-    "name": "精品点阵体9×9 Bold 1.6",
-    "style": "decorative",
-    "scene": [
-      "poster",
-      "code"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "像素字体出品的SIL OFL 1.1字体，适用于海报/代码等场景。",
-    "preview": "previews/boutiquebitmap9x9-bold-1-6.png",
-    "src": "fonts/boutiquebitmap9x9-bold-1-6.ttf",
-    "quark": "https://pan.quark.cn/s/19bac91bf96b"
+    "quark": "https://pan.quark.cn/s/dbc909e240cc"
   },
   {
     "id": "cubic-11-1-010-r",
@@ -225,38 +180,8 @@
     "quark": "https://pan.quark.cn/s/3b11fc8113c5"
   },
   {
-    "id": "wenquanyi-bitmap-song-12px",
-    "name": "文泉驿点阵宋体 12px",
-    "style": "serif",
-    "scene": [
-      "body",
-      "title"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "像素字体出品的SIL OFL 1.1字体，适用于正文/标题等场景。",
-    "preview": "previews/wenquanyi-bitmap-song-12px.png",
-    "src": "fonts/wenquanyi-bitmap-song-12px.ttf",
-    "quark": "https://pan.quark.cn/s/42b2ea34110c"
-  },
-  {
-    "id": "wenquanyi-bitmap-song-13px",
-    "name": "文泉驿点阵宋体 13px",
-    "style": "serif",
-    "scene": [
-      "body",
-      "title"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "像素字体出品的SIL OFL 1.1字体，适用于正文/标题等场景。",
-    "preview": "previews/wenquanyi-bitmap-song-13px.png",
-    "src": "fonts/wenquanyi-bitmap-song-13px.ttf",
-    "quark": "https://pan.quark.cn/s/140a29474f2e"
-  },
-  {
     "id": "wenquanyi-bitmap-song-14px",
-    "name": "文泉驿点阵宋体 14px",
+    "name": "文泉驿点阵宋体（共5款）",
     "style": "serif",
     "scene": [
       "body",
@@ -267,37 +192,7 @@
     "desc": "像素字体出品的SIL OFL 1.1字体，适用于正文/标题等场景。",
     "preview": "previews/wenquanyi-bitmap-song-14px.png",
     "src": "fonts/wenquanyi-bitmap-song-14px.ttf",
-    "quark": "https://pan.quark.cn/s/7d675c7329c5"
-  },
-  {
-    "id": "wenquanyi-bitmap-song-15px",
-    "name": "文泉驿点阵宋体 15px",
-    "style": "serif",
-    "scene": [
-      "body",
-      "title"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "像素字体出品的SIL OFL 1.1字体，适用于正文/标题等场景。",
-    "preview": "previews/wenquanyi-bitmap-song-15px.png",
-    "src": "fonts/wenquanyi-bitmap-song-15px.ttf",
-    "quark": "https://pan.quark.cn/s/1ce5e06152a3"
-  },
-  {
-    "id": "wenquanyi-bitmap-song-16px",
-    "name": "文泉驿点阵宋体 16px",
-    "style": "serif",
-    "scene": [
-      "body",
-      "title"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "像素字体出品的SIL OFL 1.1字体，适用于正文/标题等场景。",
-    "preview": "previews/wenquanyi-bitmap-song-16px.png",
-    "src": "fonts/wenquanyi-bitmap-song-16px.ttf",
-    "quark": "https://pan.quark.cn/s/7f9dcf65a74c"
+    "quark": "https://pan.quark.cn/s/1b2bb930ef45"
   },
   {
     "id": "fusion-pixel",
@@ -391,7 +286,7 @@
   },
   {
     "id": "chillduanheisongregular",
-    "name": "寒蝉端黑宋v1.2",
+    "name": "寒蝉端黑宋v1.2（共2款）",
     "style": "sans",
     "scene": [
       "title",
@@ -402,22 +297,7 @@
     "desc": "寒蝉字库出品的SIL OFL 1.1字体，适用于标题/正文等场景。",
     "preview": "previews/chillduanheisongregular.png",
     "src": "fonts/chillduanheisongregular.otf",
-    "quark": "https://pan.quark.cn/s/c6f37c2e5284"
-  },
-  {
-    "id": "chillduanheisong-condensedregular",
-    "name": "寒蝉端黑宋v1.2 Condensed",
-    "style": "sans",
-    "scene": [
-      "title",
-      "body"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "寒蝉字库出品的SIL OFL 1.1字体，适用于标题/正文等场景。",
-    "preview": "previews/chillduanheisong-condensedregular.png",
-    "src": "fonts/chillduanheisong-condensedregular.otf",
-    "quark": "https://pan.quark.cn/s/7f141b7df83d"
+    "quark": "https://pan.quark.cn/s/d93663a69ebc"
   },
   {
     "id": "chillduanheisongpro-regular",
@@ -507,7 +387,7 @@
     "desc": "寒蝉字库出品的SIL OFL 1.1字体，适用于正文/标题等场景。",
     "preview": "previews/chilljinshusonggbkregular.png",
     "src": "fonts/chilljinshusonggbkregular.otf",
-    "quark": "https://pan.quark.cn/s/46bead15cf7a"
+    "quark": "https://pan.quark.cn/s/3d1a299c7f81"
   },
   {
     "id": "chilljinshusongpro-regular",
@@ -571,7 +451,7 @@
   },
   {
     "id": "chillroundf-v3-0",
-    "name": "寒蝉全圆体F v3.0",
+    "name": "寒蝉全圆体F（共2款）",
     "style": "sans",
     "scene": [
       "title",
@@ -582,22 +462,7 @@
     "desc": "寒蝉字库出品的SIL OFL 1.1字体，适用于标题/正文等场景。",
     "preview": "previews/chillroundf-v3-0.png",
     "src": "fonts/chillroundf-v3-0.ttf",
-    "quark": "https://pan.quark.cn/s/af95fc54746b"
-  },
-  {
-    "id": "chillroundf-v1-500",
-    "name": "寒蝉全圆体F v1.5",
-    "style": "sans",
-    "scene": [
-      "title",
-      "body"
-    ],
-    "license": "OFL",
-    "licenseNote": "SIL OFL 1.1，可自由再分发",
-    "desc": "寒蝉字库出品的SIL OFL 1.1字体，适用于标题/正文等场景。",
-    "preview": "previews/chillroundf-v1-500.png",
-    "src": "fonts/chillroundf-v1-500.ttf",
-    "quark": "https://pan.quark.cn/s/8605147b964d"
+    "quark": "https://pan.quark.cn/s/f091119a2a36"
   },
   {
     "id": "chillroundm",
@@ -838,5 +703,65 @@
     "preview": "previews/lxgwzhisongcl.png",
     "src": "fonts/lxgwzhisongcl.ttf",
     "quark": "https://pan.quark.cn/s/86f09dc98bb3"
+  },
+  {
+    "id": "smileysans-oblique",
+    "name": "得意黑",
+    "style": "decorative",
+    "scene": [
+      "title",
+      "poster"
+    ],
+    "license": "OFL",
+    "licenseNote": "SIL OFL 1.1，可自由再分发",
+    "desc": "atelierAnchor 出品的自由商用中文黑体，大弧线、窄、斜，适用于海报/标题/视频字幕等场景。",
+    "src": "fonts/smileysans-oblique.ttf",
+    "preview": "previews/smileysans-oblique.png",
+    "quark": "https://pan.quark.cn/s/f1bcbf3e8111"
+  },
+  {
+    "id": "zhuquefangsong-regular",
+    "name": "朱雀仿宋",
+    "style": "serif",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "OFL",
+    "licenseNote": "SIL OFL 1.1，可自由再分发",
+    "desc": "璇玑造字出品的开源仿宋字体，改刻自民国活字「南宋」，适用于正文/标题排版。",
+    "src": "fonts/zhuquefangsong-regular.ttf",
+    "preview": "previews/zhuquefangsong-regular.png",
+    "quark": "https://pan.quark.cn/s/a10005113253"
+  },
+  {
+    "id": "toneoz-pinyin-wenkai-regular",
+    "name": "澳声通拼音文楷",
+    "style": "handwritten",
+    "scene": [
+      "body",
+      "poster"
+    ],
+    "license": "OFL",
+    "licenseNote": "SIL OFL 1.1，可自由再分发",
+    "desc": "宣声工作室出品的拼音文楷字体，基于 Klee One 与霞鹜文楷，可自动显示多音字，适用于教育/排版场景。",
+    "src": "fonts/toneoz-pinyin-wenkai-regular.ttf",
+    "preview": "previews/toneoz-pinyin-wenkai-regular.png",
+    "quark": "https://pan.quark.cn/s/2f824f84e5a9"
+  },
+  {
+    "id": "iansui-regular",
+    "name": "芫荽",
+    "style": "serif",
+    "scene": [
+      "body",
+      "title"
+    ],
+    "license": "OFL",
+    "licenseNote": "SIL OFL 1.1，可自由再分发",
+    "desc": "ButTaiwan 出品的繁体中文教育字体，基于 Klee One 改造并贴近教育部标准字体，适用于教学/排版。",
+    "src": "fonts/iansui-regular.ttf",
+    "preview": "previews/iansui-regular.png",
+    "quark": "https://pan.quark.cn/s/5a10cf3406fe"
   }
 ]
