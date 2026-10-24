@@ -956,10 +956,11 @@
       "title"
     ],
     "license": "免费商用",
-    "licenseNote": "免费商用，依授权禁止字体文件再分发（仅展示，下载跳转官方）",
-    "desc": "今年也要加油鸭：免费商用字体，依授权禁止字体文件再分发，本页仅作展示，下载请前往官方页面。适用于海报/标题等场景。",
+    "licenseNote": "免费商用；经人工复核可托管分发（本页提供夸克下载）",
+    "desc": "今年也要加油鸭：免费商用字体，经人工复核提供夸克下载，适用于海报/标题等场景。",
     "preview": "previews/d-04076.png",
-    "officialUrl": "http://mp.weixin.qq.com/s?__biz=Mzg3MzgzMTEwMA==&mid=2247484316&idx=1&sn=fa77f6ae0853bf18d6b6a0d788a1f615&chksm=cedb4c4ff9acc55951d31a13ac3f4b702d50ef305f8074f840d1dc35ccf35fee809805ba8330#rd"
+    "src": "fonts/d-04076.ttf",
+    "quark": "https://pan.quark.cn/s/bacad2346977"
   },
   {
     "id": "d-1d6c2",
